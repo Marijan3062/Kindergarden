@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box
+}
+html{
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+#home{
+    background-image: url(./graphics/banner.jpg);
+    color: white;
+    height: 500px;
+    background-size: cover;
+}
+#mission{
+    background-color: #ffe964
+}
+#about-us{
+    background-color: #ffffff
+}
+#our-team{
+    background-color: #ff523d;
+    color: white;    
+}
+#contact{
+    background-color: #223c88;
+    color: white;
+}
+nav li {
+    padding: 10px;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: black
+}
+.b{
+    color: #ffe964;
+}
+.i{
+    color:#ff523d;
+}
+.k{
+    color: #223c88;
+}
