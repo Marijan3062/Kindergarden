@@ -66,4 +66,16 @@ div{
 h1{
     font-weight: 900;
     font-size: 3rem;
+    margin-bottom: 10px;
+}
+hr{
+    color: white;
+    border-top: 5px solid;
+    border-bottom: 0;
+    width: 65%;
+    margin-left: 0;
+}
+img{
+    width: 40%;
+
 }
